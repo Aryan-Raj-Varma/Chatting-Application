@@ -1,6 +1,6 @@
 # Chatting-Application
 
-# Chatting Application - Server (Socket Programming in C)
+# Chatting Application - (Socket Programming in C)
 
 ## 📌 Project Overview
 
